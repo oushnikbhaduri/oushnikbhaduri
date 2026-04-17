@@ -6,9 +6,6 @@
 
 *I build things end-to-end — from database schema to deployed model, from REST API to production server.*
 
-[![Email](https://img.shields.io/badge/oushnikofficial%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oushnikofficial@gmail.com)
-[![Location](https://img.shields.io/badge/West%20Bengal%2C%20India-0078D4?style=flat&logo=googlemaps&logoColor=white)](#)
-
 </div>
 
 ---
@@ -21,7 +18,7 @@ On one end, I engineer **web applications and server systems** — RESTful backe
 
 I care about how systems hold together under pressure — clean architecture, maintainable code, and deployments that don't break at 2 AM.
 
-Minor in Mathematics & Statistics — for when the intuition needs proof.
+With Mathematics & Statistics — for when the intuition needs proof.
 
 ---
 
@@ -94,16 +91,6 @@ Applied research role focused on computer vision and biometric systems — build
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
 > 💡 *Replace `YOUR_GITHUB_USERNAME` with your actual GitHub handle.*
 
 ---
@@ -112,8 +99,8 @@ Applied research role focused on computer vision and biometric systems — build
 
 Open to collaborating on interesting backend systems, full-stack projects, or anything at the intersection of web engineering and intelligent systems.
 
-📧 [oushnikofficial@gmail.com](mailto:oushnikofficial@gmail.com)
-📍 West Bengal, India · Open to remote collaborations
+📧 [oushnikofficial@gmail.com](mailto:oushnikbhaduri@protonmail.me)
+📍 India · Open to remote collaborations
 
 ---
 
