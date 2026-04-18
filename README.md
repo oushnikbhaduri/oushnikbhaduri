@@ -99,7 +99,7 @@ Applied research role focused on computer vision and biometric systems — build
 
 Open to collaborating on interesting backend systems, full-stack projects, or anything at the intersection of web engineering and intelligent systems.
 
-📧 [oushnikofficial@gmail.com](mailto:oushnikbhaduri@protonmail.me)
+📧 [oushnikbhaduri@zohomail.in](mailto:oushnikbhaduri@zohomail.in)
 📍 India · Open to remote collaborations
 
 ---
